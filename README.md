@@ -1,1 +1,1 @@
-This repo only for practice perpuse.
+This repo only for practice perpose.
